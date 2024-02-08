@@ -24,15 +24,12 @@ node index.js
 
 Follow the prompts to enter text, text color, choose a shape, and specify the shape's color. The application will generate an SVG file named logo.svg based on your input.
 
-Testing
-To run the unit tests using Jest, use the following command:
+Testing:
 
-bash
-Copy code
+To run the unit tests using Jest, use the following command:
 npm test
-Project Structure
-go
-Copy code
+
+Project Structure:
 .
 ├── examples/           // Example SVG file(s) created with the app
 ├── lib/                // Folder for classes or functions
